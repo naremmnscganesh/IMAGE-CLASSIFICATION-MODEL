@@ -70,4 +70,8 @@ To use the model:
 - scikit-learn (for evaluation metrics)
 
 You can install all dependencies using: pip install tensorflow matplotlib numpy pandas scikit-learn
+
 **Output:-**
+![Image](https://github.com/user-attachments/assets/7ab45995-6159-4228-99b3-d0d482fc7dae)
+
+![Image](https://github.com/user-attachments/assets/5b7589b2-a6dd-4891-b57f-23d66ddea70c)
